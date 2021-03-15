@@ -425,20 +425,20 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x02 J6
 U 1 1 604C1457
-P 8050 5000
-F 0 "J6" H 8130 4992 50  0000 L CNN
-F 1 "Conn_01x02" H 8130 4901 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 8050 5000 50  0001 C CNN
-F 3 "~" H 8050 5000 50  0001 C CNN
-	1    8050 5000
+P 8100 5000
+F 0 "J6" H 8180 4992 50  0000 L CNN
+F 1 "Conn_01x02" H 8180 4901 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 8100 5000 50  0001 C CNN
+F 3 "~" H 8100 5000 50  0001 C CNN
+	1    8100 5000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	6950 4650 6950 5000
 Wire Wire Line
-	6950 5000 7850 5000
+	6950 5000 7900 5000
 Wire Wire Line
-	7850 5100 6850 5100
+	7900 5100 6850 5100
 Wire Wire Line
 	6850 5100 6850 4750
 Wire Wire Line
